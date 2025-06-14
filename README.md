@@ -71,24 +71,27 @@ If you use this work in your research, please cite it as:
   year={2024},
   organization={IEEE}
 }
+```
 
 ## 🚀 Get Started
 
 To run this project locally:
-
+```bash
 ### 1. Clone the repository
+```
 
 ```bash
 git clone https://github.com/yourusername/PlantLeafDiseaseDetection.git
 cd PlantLeafDiseaseDetection
 
+```
 ### 2. Install the dependencies
 
 ```bash
 pip install -r requirements.txt
-
+```bash
 ### 3. Run the models using GPU.
-
+```
 
 ## 👨‍💻 Authors
 
