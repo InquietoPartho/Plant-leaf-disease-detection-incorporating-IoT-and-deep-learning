@@ -1,6 +1,7 @@
 # 🌿 Plant Leaf Disease Detection Incorporating IoT and XAI-Enhanced Deep Learning
 
 [![Conference](https://img.shields.io/badge/ICCIT-2024-orange)](https://ieeexplore.ieee.org/abstract/document/11021966)
+[![Paper Link](Read the paper here)](https://ieeexplore.ieee.org/abstract/document/11021966)
 
 This repository contains the official implementation of our research **"Plant Leaf Disease Detection Incorporating IoT and XAI-Enhanced Deep Learning"**, accepted at the **2024 27th International Conference on Computer and Information Technology (ICCIT)**.
 
@@ -84,7 +85,7 @@ To run this project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/PlantLeafDiseaseDetection.git
+git clone https://github.com/InquietoPartho/Plant-leaf-disease-detection-incorporating-IoT-and-deep-learning
 cd PlantLeafDiseaseDetection
 ```
 
