@@ -58,11 +58,13 @@ The proposed system achieved **~99% average accuracy** and provides an **afforda
 - 🧠 **Explainability**: Grad-CAM based infected area visualization.
 - 💡 **Scalable & Affordable**: Designed for rural and low-resource regions.
 
+---
+
 ## 🔗 Citation
 
 If you use this work in your research, please cite it as:
 
-````bibtex
+```bibtex
 @inproceedings{partho2024plant,
   title={Plant Leaf Disease Detection Incorporating IoT and XAI-Enhanced Deep Learning},
   author={Partho, Pijush Kanti Roy and Rafi, Md Abid Hasan and Bhowmik, Pankaj},
@@ -73,34 +75,42 @@ If you use this work in your research, please cite it as:
 }
 ```
 
+---
+
 ## 🚀 Get Started
 
 To run this project locally:
-```bash
+
 ### 1. Clone the repository
-```
 
 ```bash
 git clone https://github.com/yourusername/PlantLeafDiseaseDetection.git
 cd PlantLeafDiseaseDetection
-
 ```
+
 ### 2. Install the dependencies
 
 ```bash
 pip install -r requirements.txt
-```bash
-### 3. Run the models using GPU.
 ```
+
+### 3. Run the models using GPU
+
+```bash
+python main.py
+```
+
+---
 
 ## 👨‍💻 Authors
 
-| Name                     | Email                          | GitHub                                        |
-|--------------------------|--------------------------------|-----------------------------------------------|
-| Pijush Kanti Roy Partho | pijushkantiroy2040@gmail.com | [@InquietoPartho](https://github.com/InquietoPartho) |
-| Md Abid Hasan Rafi      | ahr16.abidhasanrafi@gmail.com     | [@AbidHasanRafi](https://github.com/AbidHasanRafi)     |
-| Pankaj Bhowmik          | pankaj.cshstu@gmail.com           | [@pjbk](https://github.com/pjbk) |
-````
+| Name                    | Email                         | GitHub                                               |
+| ----------------------- | ----------------------------- | ---------------------------------------------------- |
+| Pijush Kanti Roy Partho | pijushkantiroy2040@gmail.com  | [@InquietoPartho](https://github.com/InquietoPartho) |
+| Md Abid Hasan Rafi      | ahr16.abidhasanrafi@gmail.com | [@AbidHasanRafi](https://github.com/AbidHasanRafi)   |
+| Pankaj Bhowmik          | pankaj.cshstu@gmail.com       | [@pjbk](https://github.com/pjbk)                     |
+
+---
 
 ## 📣 Acknowledgments
 
@@ -115,3 +125,11 @@ For any inquiries, collaborations, or feedback, feel free to reach out:
 - **Pijush Kanti Roy Partho**  
   📧 pijushkantiroy2040@gmail.com  
   🔗 [GitHub: @InquietoPartho](https://github.com/InquietoPartho)
+
+- **Md Abid Hasan Rafi**  
+  📧 ahr16.abidhasanrafi@gmail.com  
+  🔗 [GitHub: @AbidHasanRafi](https://github.com/AbidHasanRafi)
+
+- **Pankaj Bhowmik**  
+  📧 pankaj.cshstu@gmail.com  
+  🔗 [GitHub: @pjbk](https://github.com/pjbk)
